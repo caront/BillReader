@@ -1,0 +1,7 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="e:\c#\billreader\billreader\billreader.windows\obj\x64\debug\intermediatexaml\billreader.windows.exe" HashGuid="041afe96-79cb-d2a2-20fc-0aa77091af10" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windows\v8.1\extensionsdks\microsoft.vclibs\12.0\references\commonconfiguration\neutral\platform.winmd" HashGuid="58b6b6d1-928e-9908-9804-eb460e5e101b" />
+    <ReferenceAssembly PathName="e:\c#\billreader\packages\microsoft.windows.ocr.1.0.0\lib\win81\x64\windowspreview.media.ocr.winmd" HashGuid="a5310a53-1cc2-dceb-da35-610421ecb7df" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

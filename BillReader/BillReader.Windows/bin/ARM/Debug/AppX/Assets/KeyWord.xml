@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Root>
+  <language name="en">
+    <symbol content="$"/>
+    <symbol content="dol"/>
+    <symbol content="dolard"/>
+    <symbol content="£"/>
+    <word content="total"/>
+  </language>
+  <language name="fr">
+    <symbol content="€"/>
+    <word content="total"/>
+  </language>
+  <language name="es">
+    <symbol content="$"/>
+    <symbol content="$mex"/>
+    <symbol content="$mxn"/>
+    <word content="total"/>
+  </language>
+
+</Root>

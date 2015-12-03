@@ -1,0 +1,1 @@
+E:\c#\BillReader\BillReader\BillReader.Windows\BillReader.Windows.csproj;x86

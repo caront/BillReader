@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>CARON_T_WINDOWS</Machine>
+    <WindowsUser>thomas</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|ARM</SolutionConfiguration>
+    <PackageArchitecture>arm</PackageArchitecture>
+    <PackageIdentityName>c22bee49-9512-41a0-bc18-376b12885910</PackageIdentityName>
+    <IntermediateOutputPath>E:\c#\BillReader\BillReader\BillReader.Windows\obj\ARM\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="E:\c#\BillReader\BillReader\BillReader.Windows\bin\ARM\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="E:\c#\BillReader\BillReader\BillReader.Windows\bin\ARM\Debug\BillReader.Windows.exe">
+      <PackagePath>BillReader.Windows.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\c#\BillReader\packages\Microsoft.Windows.Ocr.1.0.0\build\win81\\..\..\lib\win81\ARM\WindowsPreview.Media.Ocr.winmd">
+      <PackagePath>WindowsPreview.Media.Ocr.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\c#\BillReader\packages\Microsoft.Windows.Ocr.1.0.0\build\win81\..\..\lib\win81\ARM\WindowsPreview.Media.Ocr.dll">
+      <PackagePath>WindowsPreview.Media.Ocr.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\c#\BillReader\BillReader\BillReader.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\c#\BillReader\BillReader\BillReader.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\c#\BillReader\BillReader\BillReader.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\c#\BillReader\BillReader\BillReader.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\c#\BillReader\BillReader\BillReader.Windows\OcrResources\MsOcrRes.orp">
+      <PackagePath>OcrResources\MsOcrRes.orp</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\c#\BillReader\BillReader\BillReader.Shared\Assets\KeyWord.xml">
+      <PackagePath>Assets\KeyWord.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\c#\BillReader\BillReader\BillReader.Windows\bin\ARM\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\c#\BillReader\BillReader\BillReader.Windows\bin\ARM\Debug\View\CameraCapturer.xbf">
+      <PackagePath>View\CameraCapturer.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\c#\BillReader\BillReader\BillReader.Windows\bin\ARM\Debug\View\LanguageSelector.xbf">
+      <PackagePath>View\LanguageSelector.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\c#\BillReader\BillReader\BillReader.Windows\bin\ARM\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\c#\BillReader\BillReader\BillReader.Windows\bin\ARM\Debug\BillReader.Windows.xr.xml">
+      <PackagePath>BillReader.Windows.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\c#\BillReader\BillReader\BillReader.Windows\bin\ARM\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Debug</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Debug, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.12.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Debug</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Debug, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.12.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Debug</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Debug, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.12.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

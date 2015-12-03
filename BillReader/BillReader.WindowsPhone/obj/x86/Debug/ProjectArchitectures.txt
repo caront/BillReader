@@ -1,0 +1,1 @@
+E:\c#\BillReader\BillReader\BillReader.WindowsPhone\BillReader.WindowsPhone.csproj;x86
